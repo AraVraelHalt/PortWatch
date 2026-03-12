@@ -1,4 +1,15 @@
-<img src="assets/logo.png" alt="PortWatch Logo" width="200" height="200">
+<img src="assets/logo.png" alt="PortWatch Logo" width="200" height="200"> 
+
+## ⚠️ Important Notice
+
+**PortWatch** is a network scanning tool designed for security monitoring and auditing of your own systems.  
+
+**Please use responsibly:**
+- Only scan networks and hosts that you **own or have explicit permission to test**.  
+- Unauthorized scanning may be considered illegal or malicious activity in many jurisdictions.  
+- The author is **not responsible** for any misuse or damage caused by this tool.  
+
+Always follow ethical and legal guidelines when using this software.
 
 [![Go](https://img.shields.io/badge/Go-1.21-blue?logo=go&logoColor=white)](https://golang.org/) 
 
